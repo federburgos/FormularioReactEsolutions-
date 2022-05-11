@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormularioReactEsolutions/static/css/main.716918d6.css",
+    "main.js": "/FormularioReactEsolutions/static/js/main.05309129.js",
+    "index.html": "/FormularioReactEsolutions/index.html",
+    "main.716918d6.css.map": "/FormularioReactEsolutions/static/css/main.716918d6.css.map",
+    "main.05309129.js.map": "/FormularioReactEsolutions/static/js/main.05309129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716918d6.css",
+    "static/js/main.05309129.js"
+  ]
+}
